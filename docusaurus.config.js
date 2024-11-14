@@ -2,15 +2,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PolyUploader',
-  tagline: 'Upload your files remotely to different hosting sites',
+  title: 'Katie Kush, Kelly Caprice - Free Use Maid Service',
+  tagline: 'Watch Katie Kush, Kelly Caprice - Free Use Maid Service Full Video Free HD ✔️No Ads',
   favicon: 'img/favicon.ico',
 
-  url: 'https://polyuploader.vercel.app/',
+  url: 'https://kelly-caprice.vercel.app/',
   baseUrl: '/',
 
   organizationName: 'spel987',
-  projectName: 'PolyUploader',
+  projectName: 'Katie Kush, Kelly Caprice - Free Use Maid Service',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/spel987/PolyUploader-website/tree/main/',
+            'https://github.com/Diane3Ful/kelly-caprice/tree/main/',
           routeBasePath: '/',
         },
         blog: false,
@@ -43,13 +43,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'og:url', content: 'https://polyuploader.vercel.app'},
+        {name: 'og:url', content: 'https://kelly-caprice.vercel.app'},
         {name: 'og:image', content: 'https://p-u.vercel.app/assets/meta_visual.png'},
         {name: 'twitter:card', content: 'summary_large_image'},
         {name: 'twitter:image', content: 'https://p-u.vercel.app/assets/meta_visual.png'},
-        {name: 'og:description', content: 'Documentation - PolyUploader. Upload your files remotely to different hosting sites.'},
+        {name: 'og:description', content: 'Watch Katie Kush, Kelly Caprice - Free Use Maid Service Full Video Free HD ✔️No Ads.'},
         {name: 'theme-color', content: '#4f46e5'},
-        {name: 'google-site-verification', content: 'dUIfx_ZLCzBvgIpq4n0tj7OpEyAqDt3kugqd5ryb02w'}
+        {name: 'google-site-verification', content: ''}
       ],
       navbar: {
         title: 'PolyUploader',
@@ -65,7 +65,7 @@ const config = {
             label: 'Guide & Explications',
           },
           {
-            href: 'https://github.com/spel987/PolyUploader',
+            href: 'https://github.com/Diane3Ful/kelly-caprice',
             label: 'GitHub Repository',
             position: 'right',
           },
@@ -88,19 +88,19 @@ const config = {
             items: [
               {
                 label: 'Demonstration',
-                href: 'https://p-u.vercel.app/demonstration',
+                href: 'https://kelly-caprice.vercel.app/',
               },
               {
                 label: 'GitHub Repository',
-                href: 'https://github.com/spel987/PolyUploader',
+                href: 'https://kelly-caprice.vercel.app/',
               },
               {
                 label: 'Site GitHub Repository',
-                href: 'https://github.com/spel987/PolyUploader-website',
+                href: 'https://kelly-caprice.vercel.app/',
               },
               {
                 label: 'Terms',
-                href: 'https://p-u.vercel.app/terms',
+                href: 'https://kelly-caprice.vercel.app/',
               },
             ],
           },
